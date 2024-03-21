@@ -2,6 +2,12 @@
 
 Welcome to the Humanoid Robotics Working Group & Reading Group! This interdisciplinary forum is dedicated to exploring technologies applicable to humanoid robotics, analyzing existing advancements, and identifying areas for further development.
 
+## Presentation
+- presentation_powerpoint directory
+
+## Notes
+- Notes directory
+
 ## Focus Areas
 
 ### Exploration of Applicable Technologies

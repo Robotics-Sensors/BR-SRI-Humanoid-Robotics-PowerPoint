@@ -1,4 +1,4 @@
-# Humanoid Robotics Working Group & Reading Group
+# Humanoid Robotics Community Group & Reading Group {ROS/ROS2 Official} {Open Robotics Official}
 
 Welcome to the Humanoid Robotics Working Group & Reading Group! This interdisciplinary forum is dedicated to exploring technologies applicable to humanoid robotics, analyzing existing advancements, and identifying areas for further development.
 

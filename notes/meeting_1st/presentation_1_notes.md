@@ -32,4 +32,4 @@
 
 
 ## - 6:55
-### Talked about the resources and links; how the Working Group is both a Reading Group and Working Group and how there will be no video for this meeting becaouse of the zoom meeting cut
+### Talked about the resources and links; how the Working Group is both a Reading Group and Working Group and how there will be no video for this meeting because of the zoom meeting cut

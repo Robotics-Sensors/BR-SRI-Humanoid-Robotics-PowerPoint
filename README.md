@@ -1,5 +1,9 @@
 # Humanoid Robotics Community Group & Reading Group {ROS/ROS2 Official} {Open Robotics Official}
 
+# Repository CLone & Repository View
+- Repository View: ![ViewCount](https://views.whatilearened.today/views/github/Robotics-Sensors/BR-SRI-Humanoid-Robotics-PowerPoint.svg)
+- Repository CLone: [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/RonaldsonBellande/18286e9cfa136b3696998e2d144e2e9c/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
+
 Welcome to the Humanoid Robotics Working Group & Reading Group! This interdisciplinary forum is dedicated to exploring technologies applicable to humanoid robotics, analyzing existing advancements, and identifying areas for further development.
 
 ## Presentation

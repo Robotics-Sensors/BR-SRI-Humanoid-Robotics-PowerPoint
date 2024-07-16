@@ -1,4 +1,4 @@
-# Humanoid Robotics Community Group & Reading Group {ROS/ROS2 Official} {Open Robotics Official}
+# Humanoid Robotics Community Group & Reading Group {Robotics Official} {Bellande Technologies Official}
 
 # Repository CLone & Repository View
 - Repository View: ![ViewCount](https://views.whatilearened.today/views/github/Robotics-Sensors/BR-SRI-Humanoid-Robotics-PowerPoint.svg)
